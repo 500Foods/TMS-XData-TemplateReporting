@@ -1,5 +1,5 @@
 # TMS XData Template Reporting
-This is a suite of TMS XData projects that are used to offer reporting services to the [TMS XData Template Demo Data](https://github.com/500Foods/TMS-XData-TemplateDemoData) project.  Each of the projects here uses a different reporting tool to generate reports from data passed to them.  This is different than, say, having the reporting server access the data directly itself.  This is a design choice made with an eye towards simplifying the report servers, as they then won't have to deal with database access and security issues and can instead focus on the reporting aspects alone.
+This is a suite of TMS XData projects that are used to offer reporting services to the [TMS XData Template Demo Data](https://github.com/500Foods/TMS-XData-TemplateDemoData) project.  Each of the projects uses a different reporting tool to generate reports from data passed to them.  This is different than, say, having the reporting servers access the data directly themselves.  This is a design choice made with an eye towards simplifying the reporting servers, as they then won't have to deal with database access and security issues and can instead focus on the reporting aspects alone.
 
 Note that this is a new project and it may be a short while before we've got enough here to accomplish anything useful.  
 
